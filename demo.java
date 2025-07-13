@@ -1,6 +1,5 @@
 public class demo{
 
-    static String str = "hello";
     public void m1(){
         System.out.println("gunjan is girl ");
     }
